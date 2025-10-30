@@ -1,6 +1,6 @@
 //Write a program to find the largest of three numbers.
 
-/*
+
 #include <stdio.h>
 #include <limits.h>
 int maxfinder(int arr[], int len ){
@@ -34,4 +34,5 @@ void main(void){
     int ll=sizeof(l)/sizeof(l[0]);
      maxfinder(l, ll);
 
-} */
+} 
+
