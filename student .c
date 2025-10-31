@@ -1,6 +1,6 @@
 //input marks of 5 subjects and calculate total, average, and grade.
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int ban, eng, eco, math, cal,average,total;
 float grade;
@@ -34,5 +34,5 @@ int main(){
     calcu();
     return 0;
 }
-
+*/
 

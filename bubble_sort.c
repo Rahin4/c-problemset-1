@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 void sortarray(int arr[], int n, int order){
     int i,j,temp;
@@ -43,7 +43,7 @@ int main(){
 
 
 }
-
+*/
 
 
 

@@ -1,5 +1,5 @@
 //Implement a program to find the largest and smallest element in an array.
-
+/*
 #include <stdio.h>
 
 void maxmin_finder(int arr[], int n){
@@ -35,7 +35,7 @@ int main(){
     }
 
     maxmin_finder(arr, len);
-}
+} */
 
 
 
